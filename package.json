@@ -1,0 +1,23 @@
+{
+  "name": "uWebSockets",
+  "version": "1.0.0",
+  "description": "uWebSocketsを使ってみる",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voidoperator/uWebSockets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voidoperator/uWebSockets/issues"
+  },
+  "homepage": "https://github.com/voidoperator/uWebSockets#readme",
+  "dependencies": {
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v15.0.0"
+  }
+}
